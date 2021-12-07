@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoREST.Views.ItemAddPage">
+    
+        <StackLayout Margin="20,35,20,20">
+            <Label Text="Código único" />
+            <Entry Text="{Binding Path=_id}" />
+            
+            <Label Text="Título" />
+            <Entry Text="{Binding Path=title}" Placeholder="Nombre" />
+            
+            <Label Text="Tipo" />
+            <Entry Text="{Binding Path=type}" Placeholder="Tv, Manga, Animecomic" />
+            
+            <Label Text="N° Episodios" />
+            <Entry Text="{Binding Path=episodes}" Placeholder="0" Keyboard="Numeric"/>
+        
+            <Label Text="Emitiéndose" />
+            <Switch IsToggled="{Binding Path=airing}"/>
+           
+            <Label Text="Fecha" />
+            <DatePicker MaximumDate="12/31/2021" Format="D" Date='{Binding start_date}'/>
+
+        <Button Text="Registrar" Clicked="OnSaveButtonClicked" CornerRadius="5" BackgroundColor="#44FF5A"/>
+        <Button Text="Borrar"  CornerRadius="5" BackgroundColor="#0C9FFF" TextColor="White" />
+        <Button Text="Cancelar" Clicked="OnCancelButtonClicked" CornerRadius="5" BackgroundColor="#FF2A2A"/>
+
+        </StackLayout>
+    </ContentPage>

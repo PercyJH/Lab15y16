@@ -1,0 +1,16 @@
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.deps.json
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.dll
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\bin\Debug\netstandard2.0\TodoREST.pdb
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csproj.AssemblyReference.cache
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfoInputs.cache
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.AssemblyInfo.cs
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.csproj.CoreCompileInputs.cache
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.dll
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\TodoREST.pdb
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\ItemAddPage.xaml.g.cs
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\Views\ItemListPage.xaml.g.cs
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\bin\Debug\netstandard2.0\ref\TodoREST.dll
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\ref\TodoREST.dll
+C:\Users\percy\Source\Repos\TodoREST\TodoREST\obj\Debug\netstandard2.0\App.xaml.g.cs

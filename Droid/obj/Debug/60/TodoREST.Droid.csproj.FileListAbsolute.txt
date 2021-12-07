@@ -1,0 +1,4 @@
+C:\Users\percy\Source\Repos\TodoREST\Droid\obj\Debug\60\MonoAndroid,Version=v6.0.AssemblyAttributes.cs
+C:\Users\percy\Source\Repos\TodoREST\Droid\obj\Debug\60\build.props
+C:\Users\percy\Source\Repos\TodoREST\Droid\obj\Debug\60\adb.props
+C:\Users\percy\Source\Repos\TodoREST\Droid\obj\Debug\60\TodoREST.Droid.csproj.AssemblyReference.cache
